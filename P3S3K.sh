@@ -45,167 +45,110 @@ echo $Cy"=============================================="
 echo "\033[36;1mPILIH NOMORNYA BEB😘😙"
 read -p"==> " p
 
-if [ $p 01 ]
-then
-clear
-figlet Mr.P3S3K
-sleep 2
+
+01) clear
 git clone https://github.com/R133F/Darks-fb
 cd Darks-fb
 python2 R13F.py
-fi
+;;
 
-if [ $p 02 ]
-then
-clear
-figlet Mr.P3S3K
-sleep 2
+02) clear
 git clone https://github.com/R133F/BRUTERS
 cd BRUTERS
 python2 fb.py
-fi
+;;
 
-if [ $p 03 ]
-then
-clear
-figlet Mr.P3S3K
-sleep 2
+03) clear
 git clone clone https://github.com/FR13ND8/EmailVuln
 cd EmailVuln
 python2 vuln.py
-fi
+;;
 
-if [ $p 04 ]
-then
-clear
-figlet Mr.P3S3K
-sleep 2
+04) clear
 git clone https://github.com/FR13ND8/fbbrute
 cd fbbrute
 php fb.php
-fi
+;;
 
-if [ $p 05 ]
-then
-clear
-figlet Mr.P3S3K
-sleep 2
+05) clear
 git clone https://github.com/CiKu370/OSIF
 cd OSIF
 pip2 install -r requirements.txt
 python2 osif.py
-fi
+;;
 
-if [ $p 06 ]
-then
-clear
-figlet Mr.P3S3K
-sleep 2
+06) clear
 git clone https://github.com/FR13ND8/mbf
 cd mbf
 python2 MBF.py
-fi
+;;
 
-if [ $p 07 ]
-then
-clear
-figlet Mr.P3S3K
-sleep 2
+07) clear
 git clone https://github.com/samyoyo/weeman
 cd weeman
 python2 weeman.py
-fi
+;;
 
-if [ $p 08 ]
-then
-clear
-figlet Mr.P3S3K
-sleep 2
+08) clear
 pkg install python2
 pkg install php
 pkg install git
 git clone https://github.com/R133F/Trojans
 cd Trojans
 python2 trojans.py
-fi
+;;
 
-if [ $p 09 ]
-then
-clear
+09) clear
 figlet Mr.P3S3K
 sleep 2
 git clone https://github.com/banghyuu/ddosWD
 cd ddosWD
 sh Ddos.sh
-fi
+;;
 
-if [ $p 10 ]
-then
-clear
+10) clear
 figlet Mr.P3S3K
 sleep 2
 git clone https://github.com/Senitopeng/SpamSms.git
 cd SpamSms
-fi
+;;
 
-if [ $p 11 ]
-then
-clear
-figlet Mr.P3S3K
-sleep 2
+11) clear
 git clone https://github.com/avramit/instahack.git
 cd instalhack
 cat pass.txt
 python2 hackista.py
-fi
+;;
 
-if [ $p 12 ]
-then
-clear
-figlet Mr.P3S3K
-sleep 2
+12) clear
 git clone https://github.com/albertoanggi/xl-py
 pip install -r requirements.txt
 chmod +x app.py 
 python2 app.py
-fi
+;;
 
-if [ $p 13 ]
-then
-clear
-figlet Mr.P3S3K
-sleep 2
+13) clear
 git clone https://github.com/Rusmana-ID/rus
 cd rus
 python2 speed.py
-fi
+;;
 
-if [ $p 14 ]
-then
-clear
-figlet Mr.P3S3K
-sleep 2
+14) clear
 git clone https://github.com/maldevel/IPGeolocation
 cd IPGeolocation
 chmod +x ipgeolocation.py
 pip install -r requirements.txt
 python ipgeolocation.py -m
 python ipheolocation.py -t
-fi
+;;
 
-if [ $p 15 ]
-then
-clear
+15) clear
 figlet Mr.P3S3K
 sleep 2
 neofetch
-fi
+;;
 
-if [ $p 16 ]
-then
-clear
-figlet Mr.P3S3K
-sleep 2
+16) clear
 pkg install ruby cowsay toilet figlet
 pkg install neofetch
 pkg install nano
@@ -216,32 +159,20 @@ cowsay -f eyes Cyber | lolcat
 toilet -f standard Indonesia -F EROR404
 neofetch
 date | lolcat
-fi
+;;
 
-if  [ $p 17 ]
-then
-clear
-figlet Mr.P3S3K
-sleep 2
+17) clear
 pkg install moon-buggy
 moon-buggy
-fi
+;;
 
-if [ $p 18 ]
-then
-clear
-figlet Mr.P3S3K
-sleep 2
+18) clear
 git clone https://github.com/FajriHidayat088/FHX-Hash-Killer/
 cd FHX-Hash-Killer
 python2 FHXHashKiller.py
-fi
+;;
 
-if [ $p 19 ]
-then
-clear
-figlet Mr .P3S3K
-sleep 2
+19) clear
 pkg install python
 pkg install python2
 pkg install git
@@ -260,13 +191,9 @@ pip2 install -r requirements.txt
 git clone https://github.com/Hack-G/HackG
 cd HackG
 sh Hackg.sh
-fi
+;;
 
-if [ $p 20 ]
-then
-clear
-figlet MR.P3S3K
-sleep 2
+20) clear
 pkg install toilet
 pkg install openssh
 pkg install php
@@ -283,7 +210,7 @@ git clone https://github.com/T14RB373T/FAKECALL
 cd FAKECALL
 bash call.sh
 1
-fi
+;;
 
 if [ $p 00 ]
 then
