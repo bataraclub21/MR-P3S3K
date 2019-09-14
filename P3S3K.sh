@@ -45,7 +45,7 @@ echo $Cy"=============================================="
 echo "\033[36;1mPILIH NOMORNYA BEB😘😙"
 read -p"==> " p
 
-if [ 01 ]
+if [ $p 01 ]
 then
 clear
 figlet Mr.P3S3K
@@ -55,7 +55,7 @@ cd Darks-fb
 python2 R13F.py
 fi
 
-if [ 02 ]
+if [ $p 02 ]
 then
 clear
 figlet Mr.P3S3K
@@ -65,7 +65,7 @@ cd BRUTERS
 python2 fb.py
 fi
 
-if [ 03 ]
+if [ $p 03 ]
 then
 clear
 figlet Mr.P3S3K
@@ -75,7 +75,7 @@ cd EmailVuln
 python2 vuln.py
 fi
 
-if [ 04 ]
+if [ $p 04 ]
 then
 clear
 figlet Mr.P3S3K
@@ -85,7 +85,7 @@ cd fbbrute
 php fb.php
 fi
 
-if [ 05 ]
+if [ $p 05 ]
 then
 clear
 figlet Mr.P3S3K
@@ -96,7 +96,7 @@ pip2 install -r requirements.txt
 python2 osif.py
 fi
 
-if [ 06 ]
+if [ $p 06 ]
 then
 clear
 figlet Mr.P3S3K
@@ -106,7 +106,7 @@ cd mbf
 python2 MBF.py
 fi
 
-if [ 07 ]
+if [ $p 07 ]
 then
 clear
 figlet Mr.P3S3K
@@ -116,7 +116,7 @@ cd weeman
 python2 weeman.py
 fi
 
-if [ 08 ]
+if [ $p 08 ]
 then
 clear
 figlet Mr.P3S3K
@@ -129,7 +129,7 @@ cd Trojans
 python2 trojans.py
 fi
 
-if [ 09 ]
+if [ $p 09 ]
 then
 clear
 figlet Mr.P3S3K
@@ -139,7 +139,7 @@ cd ddosWD
 sh Ddos.sh
 fi
 
-if [ 10 ]
+if [ $p 10 ]
 then
 clear
 figlet Mr.P3S3K
@@ -148,7 +148,7 @@ git clone https://github.com/Senitopeng/SpamSms.git
 cd SpamSms
 fi
 
-if [ 11 ]
+if [ $p 11 ]
 then
 clear
 figlet Mr.P3S3K
@@ -159,7 +159,7 @@ cat pass.txt
 python2 hackista.py
 fi
 
-if [ 12 ]
+if [ $p 12 ]
 then
 clear
 figlet Mr.P3S3K
@@ -170,7 +170,7 @@ chmod +x app.py
 python2 app.py
 fi
 
-if [ 13 ]
+if [ $p 13 ]
 then
 clear
 figlet Mr.P3S3K
@@ -180,7 +180,7 @@ cd rus
 python2 speed.py
 fi
 
-if [ 14 ]
+if [ $p 14 ]
 then
 clear
 figlet Mr.P3S3K
@@ -193,7 +193,7 @@ python ipgeolocation.py -m
 python ipheolocation.py -t
 fi
 
-if [ 15 ]
+if [ $p 15 ]
 then
 clear
 figlet Mr.P3S3K
@@ -201,7 +201,7 @@ sleep 2
 neofetch
 fi
 
-if [ 16 ]
+if [ $p 16 ]
 then
 clear
 figlet Mr.P3S3K
@@ -218,7 +218,7 @@ neofetch
 date | lolcat
 fi
 
-if  [ 17 ]
+if  [ $p 17 ]
 then
 clear
 figlet Mr.P3S3K
@@ -227,7 +227,7 @@ pkg install moon-buggy
 moon-buggy
 fi
 
-if [ 18 ]
+if [ $p 18 ]
 then
 clear
 figlet Mr.P3S3K
@@ -237,7 +237,7 @@ cd FHX-Hash-Killer
 python2 FHXHashKiller.py
 fi
 
-if [ 19 ]
+if [ $p 19 ]
 then
 clear
 figlet Mr .P3S3K
@@ -262,7 +262,7 @@ cd HackG
 sh Hackg.sh
 fi
 
-if [ 20 ]
+if [ $p 20 ]
 then
 clear
 figlet MR.P3S3K
@@ -285,7 +285,7 @@ bash call.sh
 1
 fi
 
-if [ 00 ]
+if [ $p 00 ]
 then
 clear
 figlet SEE YOU BEB
